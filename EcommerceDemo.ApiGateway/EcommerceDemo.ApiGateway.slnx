@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../EcommerceDemo.SharedLibrary/Ecommerce.SharedLibrary/Ecommerce.SharedLibrary.csproj" />
+  <Project Path="ApiGateway.WebAPI/ApiGateway.WebAPI.csproj" Id="c86de602-75dd-43f3-a709-d52bbca5b12e" />
+</Solution>

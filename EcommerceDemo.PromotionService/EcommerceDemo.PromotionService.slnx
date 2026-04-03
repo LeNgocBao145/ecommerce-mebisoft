@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../EcommerceDemo.SharedLibrary/Ecommerce.SharedLibrary/Ecommerce.SharedLibrary.csproj" />
+  <Project Path="PromotionService.Application/PromotionService.Application.csproj" />
+  <Project Path="PromotionService.Domain/PromotionService.Domain.csproj" />
+  <Project Path="PromotionService.Infrastructure/PromotionService.Infrastructure.csproj" />
+  <Project Path="PromotionService.WebAPI/PromotionService.WebAPI.csproj" />
+</Solution>

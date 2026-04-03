@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="E:/ecommerce-mebisoft/EcommerceDemo.ProductService/ProductService.Application/ProductService.Application.csproj" />
+  <Project Path="E:/ecommerce-mebisoft/EcommerceDemo.ProductService/ProductService.Domain/ProductService.Domain.csproj" />
+  <Project Path="E:/ecommerce-mebisoft/EcommerceDemo.ProductService/ProductService.Infrastructure/ProductService.Infrastructure.csproj" />
+  <Project Path="E:/ecommerce-mebisoft/EcommerceDemo.ProductService/ProductService.WebAPI/ProductService.WebAPI.csproj" />
+  <Project Path="E:/ecommerce-mebisoft/EcommerceDemo.SharedLibrary/Ecommerce.SharedLibrary/Ecommerce.SharedLibrary.csproj" />
+</Solution>
